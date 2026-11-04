@@ -2,8 +2,9 @@
 <!-- PROFILE BANNER -->
 
 <div align="center">
-  <img src="Yasar%20Khan%20Data%20Analyst%20Banner.png" width="100%" alt="Yasar Khan - Data Analyst">
+  <img src="Black%20Blue%20and%20Green%20Modern%20Corporate%20Business%20Solutions%20Banner.png" width="100%" alt="Yasar Khan - Data Analyst">
 </div>
+
 
 <!-- ANIMATED INTRODUCTION -->
 
