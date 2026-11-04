@@ -36,17 +36,39 @@ and business intelligence.
 <hr>
 
 
-<!--
-**pathanyasar49196-afk/pathanyasar49196-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Technical Skills & Tools</h2>
 
-Here are some ideas to get you started:
+<h3>Database & SQL</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-512BD4?style=for-the-badge&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+<h3>Business Intelligence & Reporting</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/DAX-7C3AED?style=for-the-badge" alt="DAX"/>
+<img src="https://img.shields.io/badge/Power_Query-6D28D9?style=for-the-badge" alt="Power Query"/>
+</p>
+
+<h3>Programming & Data Analysis</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+<h3>Core Competencies</h3>
+
+- Data Cleaning & Transformation
+- SQL Joins, CTEs & Window Functions
+- Data Modeling & KPI Reporting
+- Dashboard Development
+- Exploratory Data Analysis
+- Business Intelligence
+
+<hr>
+
