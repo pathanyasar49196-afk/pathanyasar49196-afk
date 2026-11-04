@@ -1,8 +1,12 @@
+
+<!-- PROFILE BANNER -->
+
 <div align="center">
   <img src="Yasar%20Khan%20Data%20Analyst%20Banner.png" width="100%" alt="Yasar Khan - Data Analyst">
 </div>
 
-  
+<!-- ANIMATED INTRODUCTION -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+SQL+%7C+Power+BI;Excel+%7C+Python+%7C+Pandas;Turning+Data+Into+Business+Insights" alt="Animated Introduction"/>
@@ -10,6 +14,8 @@
 </div>
 
 <br>
+
+<!-- ABOUT ME -->
 
 <h2>About Me</h2>
 
@@ -35,6 +41,7 @@ and business intelligence.
 
 <hr>
 
+<!-- TECHNICAL SKILLS -->
 
 <h2 align="center">Technical Skills & Tools</h2>
 
@@ -61,6 +68,8 @@ and business intelligence.
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
+<!-- CORE COMPETENCIES -->
+
 <h3>Core Competencies</h3>
 
 - Data Cleaning & Transformation
@@ -72,3 +81,39 @@ and business intelligence.
 
 <hr>
 
+<!-- FEATURED PROJECT -->
+
+<h2 align="center">Featured Data Analytics Project</h2>
+
+### Excel Data Analysis Dashboard
+
+**Tools:** Microsoft Excel | Pivot Tables | Pivot Charts | Slicers
+
+**Project Overview**
+
+Developed an interactive Excel dashboard to analyze data and present meaningful business insights.
+
+**Key Features**
+
+- Created interactive dashboards using Pivot Tables and Charts.
+- Implemented slicers to filter multiple charts dynamically.
+- Summarized important metrics for easy analysis.
+- Designed a clean, user-friendly dashboard.
+
+**Skills Demonstrated**
+
+Data Analysis | Excel | Data Visualization | Pivot Tables | Dashboard Development
+
+**Project Status:** Completed
+
+<hr>
+
+<!-- FOOTER -->
+
+<div align="center">
+
+### Turning Data into Meaningful Business Insights
+
+**SQL | Power BI | Excel | Python | Pandas**
+
+</div>
