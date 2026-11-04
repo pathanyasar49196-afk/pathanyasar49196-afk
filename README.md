@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<div align="center">
+  <img src="Yasar%20Khan%20Data%20Analytics%20Workspace.png" width="100%" alt="Yasar Khan Data Analyst Banner"/>
+</div>
+  
 
 <!--
 **pathanyasar49196-afk/pathanyasar49196-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
