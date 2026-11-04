@@ -1,7 +1,7 @@
-
 <div align="center">
-  <img src="Yasar%20Khan%20Data%20Analytics%20Workspace.png" width="100%" alt="Yasar Khan Data Analyst Banner"/>
+  <img src="Yasar%20Khan%20Data%20Analyst%20Banner.png" width="100%" alt="Yasar Khan - Data Analyst">
 </div>
+
   
 
 <!--
