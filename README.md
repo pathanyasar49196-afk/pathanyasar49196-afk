@@ -106,6 +106,12 @@ Data Analysis | Excel | Data Visualization | Pivot Tables | Dashboard Developmen
 
 **Project Status:** Completed
 
+[View Excel Dashboard Project](https://github.com/pathanyasar49196-afk/Excel-Data-Analysis-Dashboard)
+
+[Download Excel Project](https://github.com/pathanyasar49196-afk/Excel-Data-Analysis-Dashboard/raw/refs/heads/main/Project%203.xlsx)
+
+[Watch Dashboard Demo](https://github.com/pathanyasar49196-afk/Excel-Data-Analysis-Dashboard/blob/main/Excel%20Dashboard.mp4)
+
 <hr>
 
 <!-- FOOTER -->
